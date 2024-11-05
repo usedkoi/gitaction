@@ -1,0 +1,26 @@
+{
+  "name": "gitaction",
+  "version": "1.0.0",
+  "description": "gitaction_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test mocha",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usedkoi/gitaction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usedkoi/gitaction/issues"
+  },
+  "homepage": "https://github.com/usedkoi/gitaction#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
